@@ -16,7 +16,7 @@ A challenging game which involves guiding a metal loop along a serpentine length
   * One button
   * Male-to-male hookup wires
   
-  **Software**
+  ***Software***
   * Arduino IDE
   
 ## User Manual
