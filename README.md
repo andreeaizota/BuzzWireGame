@@ -4,10 +4,30 @@ A challenging game which involves guiding a metal loop along a serpentine length
 
 ## Circuit schematic 
 ![Schematic](Schematic.png)
-
 ## Requirements
   ***Hardware***
-  * An Arduino Uno Booard
-  * A breadboard
-  * A data cable
-  * 
+  * One Arduino Uno Booard
+  * One breadboard
+  * One data cable
+  * One metal coat hanger
+  * One piezo buzzer
+  * One seven segment display
+  * Resistors
+  * One button
+  * Male-to-male hookup wires
+  
+  **Software**
+  * Arduino IDE
+  
+## User Manual
+  * Install Arduino IDE if you don't have it installed on your PC
+  * Download the BuzzWireGame.ino file
+  * Open the BuzzWireGame.ino file in Arduino IDE
+  * Remake the circuit as show in the schematic
+  * Verify and Upload the code
+  * Now try to get on the other side with 0 mistakes
+  * You can see the number of the mistakes you made on the seven segment display and you can reset the counter by pressing the button
+  
+## Bibliography
+  * https://www.makeuseof.com/tag/make-buzz-wire-game-arduino/
+  * https://en.wikipedia.org/wiki/Wire_loop_game
